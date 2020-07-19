@@ -5,6 +5,7 @@ The app will display the name of the object as well as the calculation of how co
 ## Technologies:
 - AVKit
 ### Machine Learning/CoreML:
+- Model: Resnet50
 - Vision
 
 ## Samples
